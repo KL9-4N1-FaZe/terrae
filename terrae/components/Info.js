@@ -14,7 +14,7 @@ export default function Info(props) {
         {props.titolo}
       </h3>
 
-      <p className="text-gray-600 text-sm leading-relaxed max-w-xs">
+      <p className="text-sm leading-relaxed max-w-xs text-white font-bold">
         {props.descrizione}
       </p>
     </div>
